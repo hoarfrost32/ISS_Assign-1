@@ -6,7 +6,7 @@
 <br>
 
 
-Link to github repository: 
+Link to github repository: https://github.com/hoarfrost32/ISS_Assign-1.git
 
 ## <u> Question-1 </u>
 * The output to both the subparts is printed on the terminal.
